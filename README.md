@@ -1,4 +1,4 @@
-# Oi, eu sou o Lucas Marin
+# Oi, eu sou Lucas Marin
 <p align="center">
  <img src="https://pbs.twimg.com/media/CXw9we1UQAAbURh.jpg" width="650"> 
  </p>
