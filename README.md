@@ -4,9 +4,9 @@
  </p>
   Fala devs! Tenho 24 Anos e sou formado em CC e hoje sou focado no desenvolvimento back-end com Java, tentando melhorar meus conhecimentos para chegar em um nivel no qual eu possa criar minhas proprias soluções de ponta a ponta.
   
-- 🔭 Atualmente estou trabalhando em projetos com Java e JS.
-- 🌱 Atualmente estou aprendendo Java Spring/WildFly, ReactJS e Docker.
-- 🤔 Estou procurando ajuda com responvidade de paginas, css com seus tamanhos e algumas animações são chatinhas.
+- 🔭 Atualmente estou trabalhando em projetos com Java e TS.
+- 🌱 Atualmente estou aprendendo Java Spring/WildFly, ReactJS e Docke.
+- 🤔 Estou procurando ajuda com responsividade de paginas, css com seus tamanhos e algumas animações são chatinhas.
     
 ### Linguagens e Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" align="left"/>
