@@ -1,9 +1,7 @@
 # Lucas Martins Marin
 <p align="center">
  <img src="https://pbs.twimg.com/media/CXw9we1UQAAbURh.jpg" width="650"> 
- </p>
-  Fala devs! Tenho 24 Anos e sou formado em CC e hoje sou focado no desenvolvimento back-end com Java, tentando melhorar meus conhecimentos para chegar em um nivel no qual eu possa criar minhas proprias soluções de ponta a ponta.
-  
+ </p>  
 - 🔭 Atualmente estou trabalhando em projetos com Java e TS.
 - 🌱 Atualmente estou aprendendo Java Spring/WildFly, ReactJS e Docker.
 - 🤔 Estou procurando ajuda com responsividade de paginas, css com seus tamanhos e algumas animações são chatinhas.
