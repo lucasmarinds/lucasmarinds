@@ -1,9 +1,8 @@
 # Lucas Martins Marin
 <p align="center">
- <img src="https://pbs.twimg.com/media/CXw9we1UQAAbURh.jpg" width="650"> 
  </p>  
-- 🔭 Atualmente estou trabalhando em projetos com Java e TS.
-- 🌱 Atualmente estou aprendendo Java Spring/WildFly, ReactJS e Docker.
+- 🔭 Atualmente estou trabalhando em projetos com Java e React.
+- 🌱 Atualmente estou aprendendo Java Spring/WildFly, ReactJS, Docker e GO.
 - 🤔 Estou procurando ajuda com responsividade de paginas, css com seus tamanhos e algumas animações são chatinhas.
     
 ### Linguagens e Ferramentas
