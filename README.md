@@ -1,9 +1,9 @@
 # Lucas Martins Marin
 <p align="center">
  </p>  
-- 🔭 Atualmente estou trabalhando em projetos com Java e React.
+- 🔭 Atualmente estou trabalhando em projetos com Java, Kotlin e GO
 </br>
-- 🌱 Atualmente estou aprendendo Java Spring/WildFly, ReactJS, Docker e GO.
+- 🌱 Atualmente estou aprendendo Kotlin Spring/WildFly, ReactJS, Docker e GO.
 
 ### Linguagens e Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" align="left"/>
