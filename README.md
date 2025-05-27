@@ -2,9 +2,9 @@
 <p align="center">
  </p>  
 - 🔭 Atualmente estou trabalhando em projetos com Java e React.
+</br>
 - 🌱 Atualmente estou aprendendo Java Spring/WildFly, ReactJS, Docker e GO.
-- 🤔 Estou procurando ajuda com responsividade de paginas, css com seus tamanhos e algumas animações são chatinhas.
-    
+
 ### Linguagens e Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="70" align="left"/>
