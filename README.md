@@ -16,13 +16,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="70" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="70"/>
-
-### O que vai encontrar aqui
-<div>
-<a href="https://github.com/lucasmarinds">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarinds&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmarinds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
  
 ### Contatos
 <div>
